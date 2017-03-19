@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Runtime Permission Tutorial</string>
+    <string name="text_read_contacts">Read contacts</string>
+</resources>
